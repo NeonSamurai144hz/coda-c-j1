@@ -1,0 +1,4 @@
+/home/votrenomdutilisateur/shell/marvel/avengers# touch black_widow.txt
+/home/votrenomdutilisateur/shell/marvel/avengers# echo "Natasha Romanov\n" >> black_widow.txt
+/home/votrenomdutilisateur/shell/dc# touch wonder_woman.txt
+/home/votrenomdutilisateur/shell/dc# echo "Diana Prince\n" >> wonder_woman.txt
